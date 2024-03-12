@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "lpQca7cPcF37DfnJdmFE/61j1pRKA/3hv3f9zBCaknf9M1s4pIDE1DytIfEkU0/mlQmm6biMunHX+957mm5uHw==",
+  "success": true,
+  "projectFilePath": "/Users/evertoncoimbradearaujo/Documents/GitHub/tds2023_02/2024/API/Projeto02/Projeto02.csproj",
+  "expectedPackageFiles": [
+    "/Users/evertoncoimbradearaujo/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/evertoncoimbradearaujo/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/evertoncoimbradearaujo/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/evertoncoimbradearaujo/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/evertoncoimbradearaujo/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/evertoncoimbradearaujo/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
