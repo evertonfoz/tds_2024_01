@@ -442,11 +442,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/evertoncoimbradearaujo/Documents/GitHub/tds2023_02/2024/API/Projeto02/Projeto02.csproj",
+      "projectUniqueName": "/Users/evertoncoimbradearaujo/Documents/GitHub/tds_2024_01/Aula01/API/Projeto02/Projeto02.csproj",
       "projectName": "Projeto02",
-      "projectPath": "/Users/evertoncoimbradearaujo/Documents/GitHub/tds2023_02/2024/API/Projeto02/Projeto02.csproj",
+      "projectPath": "/Users/evertoncoimbradearaujo/Documents/GitHub/tds_2024_01/Aula01/API/Projeto02/Projeto02.csproj",
       "packagesPath": "/Users/evertoncoimbradearaujo/.nuget/packages/",
-      "outputPath": "/Users/evertoncoimbradearaujo/Documents/GitHub/tds2023_02/2024/API/Projeto02/obj/",
+      "outputPath": "/Users/evertoncoimbradearaujo/Documents/GitHub/tds_2024_01/Aula01/API/Projeto02/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/evertoncoimbradearaujo/.nuget/NuGet/NuGet.Config"

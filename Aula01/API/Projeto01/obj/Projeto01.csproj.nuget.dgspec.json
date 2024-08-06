@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/evertoncoimbradearaujo/Documents/GitHub/tds2023_02/2024/API/Projeto01/Projeto01.csproj": {}
+    "/Users/evertoncoimbradearaujo/Documents/GitHub/tds_2024_01/Aula01/API/Projeto01/Projeto01.csproj": {}
   },
   "projects": {
-    "/Users/evertoncoimbradearaujo/Documents/GitHub/tds2023_02/2024/API/Projeto01/Projeto01.csproj": {
+    "/Users/evertoncoimbradearaujo/Documents/GitHub/tds_2024_01/Aula01/API/Projeto01/Projeto01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/evertoncoimbradearaujo/Documents/GitHub/tds2023_02/2024/API/Projeto01/Projeto01.csproj",
+        "projectUniqueName": "/Users/evertoncoimbradearaujo/Documents/GitHub/tds_2024_01/Aula01/API/Projeto01/Projeto01.csproj",
         "projectName": "Projeto01",
-        "projectPath": "/Users/evertoncoimbradearaujo/Documents/GitHub/tds2023_02/2024/API/Projeto01/Projeto01.csproj",
+        "projectPath": "/Users/evertoncoimbradearaujo/Documents/GitHub/tds_2024_01/Aula01/API/Projeto01/Projeto01.csproj",
         "packagesPath": "/Users/evertoncoimbradearaujo/.nuget/packages/",
-        "outputPath": "/Users/evertoncoimbradearaujo/Documents/GitHub/tds2023_02/2024/API/Projeto01/obj/",
+        "outputPath": "/Users/evertoncoimbradearaujo/Documents/GitHub/tds_2024_01/Aula01/API/Projeto01/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/evertoncoimbradearaujo/.nuget/NuGet/NuGet.Config"

@@ -3049,11 +3049,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/evertoncoimbradearaujo/Documents/GitHub/tds2023_02/2024/Aula02/APiComEFCore/APiComEFCore.csproj",
+      "projectUniqueName": "/Users/evertoncoimbradearaujo/Documents/GitHub/tds_2024_01/Aula02/APiComEFCore/APiComEFCore.csproj",
       "projectName": "APiComEFCore",
-      "projectPath": "/Users/evertoncoimbradearaujo/Documents/GitHub/tds2023_02/2024/Aula02/APiComEFCore/APiComEFCore.csproj",
+      "projectPath": "/Users/evertoncoimbradearaujo/Documents/GitHub/tds_2024_01/Aula02/APiComEFCore/APiComEFCore.csproj",
       "packagesPath": "/Users/evertoncoimbradearaujo/.nuget/packages/",
-      "outputPath": "/Users/evertoncoimbradearaujo/Documents/GitHub/tds2023_02/2024/Aula02/APiComEFCore/obj/",
+      "outputPath": "/Users/evertoncoimbradearaujo/Documents/GitHub/tds_2024_01/Aula02/APiComEFCore/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/evertoncoimbradearaujo/.nuget/NuGet/NuGet.Config"

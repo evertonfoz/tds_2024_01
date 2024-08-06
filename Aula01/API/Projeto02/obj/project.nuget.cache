@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lpQca7cPcF37DfnJdmFE/61j1pRKA/3hv3f9zBCaknf9M1s4pIDE1DytIfEkU0/mlQmm6biMunHX+957mm5uHw==",
+  "dgSpecHash": "pQMopr52vIFpQUpRf+4f+6/uQjUbS0CLYvFyy5XT3FESLBmFiN2X6Fl6ta1ux+Ub+2X7s7KkcOgI6PCCm1Y93Q==",
   "success": true,
-  "projectFilePath": "/Users/evertoncoimbradearaujo/Documents/GitHub/tds2023_02/2024/API/Projeto02/Projeto02.csproj",
+  "projectFilePath": "/Users/evertoncoimbradearaujo/Documents/GitHub/tds_2024_01/Aula01/API/Projeto02/Projeto02.csproj",
   "expectedPackageFiles": [
     "/Users/evertoncoimbradearaujo/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "/Users/evertoncoimbradearaujo/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",

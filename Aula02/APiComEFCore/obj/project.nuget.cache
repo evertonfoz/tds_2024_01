@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hIEKW6/Leata3+11Z/OaP77JLBgMx5RhZ8uMtu/i++auKZ8jXtcS1pmmTb5MA3scgpLIQW4y3OhfVbi8CLwQ5A==",
+  "dgSpecHash": "GDsXwigEC6Yv4sYz56v2GyAAzou1qGbWAjshDfr3sVO13PLa4sKsVcHS5Mwq97O5ho1zjBenEefuugbJUR15mg==",
   "success": true,
-  "projectFilePath": "/Users/evertoncoimbradearaujo/Documents/GitHub/tds2023_02/2024/Aula02/APiComEFCore/APiComEFCore.csproj",
+  "projectFilePath": "/Users/evertoncoimbradearaujo/Documents/GitHub/tds_2024_01/Aula02/APiComEFCore/APiComEFCore.csproj",
   "expectedPackageFiles": [
     "/Users/evertoncoimbradearaujo/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/evertoncoimbradearaujo/.nuget/packages/microsoft.aspnetcore.openapi/8.0.2/microsoft.aspnetcore.openapi.8.0.2.nupkg.sha512",
